@@ -38,8 +38,9 @@ This project was developed as part of an **academic database systems project**.
 3. Run the files in this order:
    ```sql
    SET SERVEROUTPUT ON
-   @ddl.sql
-   @dml_demo.sql
+   @database/ddl.sql
+   @database/dml_demo.sql
+
 
 
 
